@@ -1,0 +1,84 @@
+body {
+    background-color: blanchedalmond;
+}
+
+#xyz {
+    color: rgb(218, 51, 21);
+    border-top-style: none;
+    text-shadow: brown 2px 2px 2px;
+}
+
+h1 {
+    color: rgb(112, 21, 21);
+    border-top-style: solid;
+
+    border-radius: 100px;
+    text-align: center;
+    border-width: 5px;
+    border-color: blueviolet;
+}
+
+a {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+h3 {
+    font-weight: bold;
+    border-top-style: ridge;
+    border-radius: 20px;
+
+
+}
+
+
+h4 {
+    font-weight: bold;
+    border-radius: 20px;
+    border-top-style: ridge;
+
+}
+
+p {
+    background: linear-gradient(to left, rgb(115, 192, 211), rgb(240, 205, 241));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+table {
+    width: 400px;
+}
+
+th {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid#000;
+}
+
+th td {
+    padding: 10px;
+}
+
+#maa {
+    background: none;
+    font-size: larger;
+    font-weight: 600;
+}
+
+button {
+    background-color: black;
+}
+
+#ki {
+    font-weight: 900;
+    background: none;
+}
+
+#bhosda {
+    background: none;
+}
+#wo{background: none;}
